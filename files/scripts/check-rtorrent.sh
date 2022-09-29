@@ -6,7 +6,7 @@
 
 
 # includes
-INCLUDES="/tmp/ratxabox/includes"
+INCLUDES="/tmp/ratxabox-channel/includes"
 # shellcheck source=/dev/null
 . "$INCLUDES"/cmd.sh
 # shellcheck source=/dev/null
