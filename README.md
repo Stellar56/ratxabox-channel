@@ -33,9 +33,9 @@ apt-get update && apt-get upgrade -y
 apt-get install git-core -y
 
 cd /tmp
-git clone https://github.com/xavier84/RatXaBox ratxabox
-cd ratxabox
-chmod a+x bonobox.sh && ./bonobox.sh
+git clone https://github.com/stellar56/ratxabox-channel
+cd ratxabox-channel
+chmod a+x bonobox.sh && ./bonobox.sh --fr
 ```
 
 
